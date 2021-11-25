@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, React and Node JS**
 
-- 📫 How to reach me **mdimran1409036@gmail.com**
+- 📫 How to reach me **imran.kuet14@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1x0r8YeI1cGs_7Gb_aG6KCGntuifxDB1A/view](https://drive.google.com/file/d/1x0r8YeI1cGs_7Gb_aG6KCGntuifxDB1A/view)
 
