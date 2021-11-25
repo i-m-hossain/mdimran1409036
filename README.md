@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdimran1409036&label=Profile%20views&color=0e75b6&style=flat" alt="mdimran1409036" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdimran1409036" alt="mdimran1409036" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mdimran1409036" target="blank"><img src="https://img.shields.io/twitter/follow/mdimran1409036?logo=twitter&style=for-the-badge" alt="mdimran1409036" /></a> </p>
 
 - 🌱 I’m currently learning **React and Node JS with Programming Hero**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mdimran1409036@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1zbHYg3n9aGn9gv9PbN0QF7he99nTzXLp](https://drive.google.com/drive/u/0/folders/1zbHYg3n9aGn9gv9PbN0QF7he99nTzXLp)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x0r8YeI1cGs_7Gb_aG6KCGntuifxDB1A/view](https://drive.google.com/file/d/1x0r8YeI1cGs_7Gb_aG6KCGntuifxDB1A/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
