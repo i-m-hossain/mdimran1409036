@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/imran1409036" target="blank"><img src="https://img.shields.io/twitter/follow/imran1409036?logo=twitter&style=for-the-badge" alt="imran1409036" /></a> </p>
 
-- 🌱 I’m currently learning **React and Node JS with Programming Hero**
-
 - 💬 Ask me about **Javascript, React and Node JS**
 
 - 📫 How to reach me **imran.kuet14@gmail.com**
