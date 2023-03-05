@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Imran Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Full Stack Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdimran1409036&label=Profile%20views&color=0e75b6&style=flat" alt="mdimran1409036" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imran1409036" target="blank"><img src="https://img.shields.io/twitter/follow/imran1409036?logo=twitter&style=for-the-badge" alt="imran1409036" /></a> </p>
 
-- 💬 Ask me about **Javascript, React and Node JS**
+- 💬 Ask me about **Javascript, React, Svelte and Node JS**
 
 - 📫 How to reach me **imran.kuet14@gmail.com**
 
